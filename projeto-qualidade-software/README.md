@@ -3,7 +3,6 @@
 ## 👥 Integrantes
 - Mauticio T Welter — 182210034
 - Douglas Santos — 181900322
-- Leandro Mandela — Matrícula
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
