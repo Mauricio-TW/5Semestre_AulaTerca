@@ -1,5 +1,9 @@
 ﻿# Atividade 01: Diagnóstico de Qualidade — Projeto Local Eats
 
+**Grupo:** Mauticio T Welter, Douglas Santos
+**Disciplina:** Qualidade de Software  
+**Data:** 10/03/2026
+
 ## 1. Objetivo da Análise
 Realizar um diagnóstico inicial da plataforma Local Eats, identificando falhas críticas de software e relacionando-as aos atributos de qualidade da norma **ISO/IEC 25010**.
 

@@ -1,6 +1,10 @@
 ﻿
 # Estratégia Inicial de Testes — LocalEats
 
+**Grupo:** Mauticio T Welter, Douglas Santos
+**Disciplina:** Qualidade de Software  
+**Data:** 24/03/2026
+
 ## 1. Funcionalidades Principais
 Para estabilizar a plataforma, focaremos no "Caminho Crítico" do usuário:
 1. **Busca e Filtro:** Localização, culinária e preço.

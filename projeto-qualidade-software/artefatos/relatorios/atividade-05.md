@@ -1,12 +1,8 @@
 # Atividade PBL – Aula 6: Planejamento e Execução de Testes – LocalEats
 
-**Grupo:** Mauticio T Welter, Douglas Santos, Leandro Mandela
-
+**Grupo:** Mauticio T Welter, Douglas Santos
 **Disciplina:** Qualidade de Software  
-
-**Data:** 21/04/2026
-
----
+**Data:** 14/04/2026
 
 ## 1. Plano de Testes – Sistema LocalEats
 
@@ -19,8 +15,6 @@
     * Tratamento de erros
 
     * Consistência dos dados exibidos
-
----
 
 ## 2. Escopo
 
@@ -72,8 +66,6 @@
 
     * Avaliação(Possibilidade do usuário fazer avaliações)
 
----
-
 ## 3. Casos de Teste LocalEats
 
 * CT01 - cadastro com sucesso
@@ -89,8 +81,6 @@
 * CT06 - realizar pedidos na pagina do restaurante com sucesso
 
 * CT07 - avaliar restaurante sem sucesso 
-
----
 
 ## 4. Execução dos Testes
 
@@ -336,5 +326,3 @@
         📌 Execução em diferentes cenários
 
         → Diferentes usuários, entradas e fluxos
-
----

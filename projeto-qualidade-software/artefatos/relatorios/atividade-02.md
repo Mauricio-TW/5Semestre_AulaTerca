@@ -1,5 +1,9 @@
 ﻿# Diagnóstico de Qualidade e Estrutura Organizacional — Startup Local Eats
 
+**Grupo:** Mauticio T Welter, Douglas Santos
+**Disciplina:** Qualidade de Software  
+**Data:** 17/03/2026
+
 ## 1. Diagnóstico da Situação Atual
 A Local Eats apresenta um cenário de baixa maturidade em processos de software. A ocorrência de pedidos duplicados e falhas em produção indica que não há uma etapa de validação independente.
 
