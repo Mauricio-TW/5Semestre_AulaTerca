@@ -10,7 +10,7 @@ Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade 
 ## 📚 Organização
 - `docs/` → Atividades realizadas ao longo das aulas
 - `artefatos/` → Diagramas, relatórios e evidências
-- `atividade 12/' → Atividade Final da materia
+- `atividade 12/` → Atividade Final da materia
 - `src/` → Código-fonte (quando aplicável)
 - `referencias/` → Materiais de apoio e bibliografia
 
