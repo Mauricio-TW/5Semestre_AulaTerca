@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target": "es2016", "module": "commonjs", "esModuleInterop": true, "types": ["jest"], "strict": true, "skipLibCheck": true } }

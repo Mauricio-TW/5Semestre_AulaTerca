@@ -1,0 +1,1 @@
+export class OrderService { calculateTotal(price: number, tax: number): number { return price + tax; } }
